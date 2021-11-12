@@ -288,6 +288,7 @@ h3 {
         display: flex;
         justify-content: space-around;
         flex-wrap: wrap;
+        height: 350px;
     }
     .left-navbar a {
         font-size: 12px;
